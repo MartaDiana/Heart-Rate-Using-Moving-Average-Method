@@ -84,7 +84,7 @@ void loop()
 //  Serial.print("BPM=");
 //  Serial.println(beatsPerMinute);
 //  Serial.print(",beatAvg");
-  Serial.print(beatAvg);
+  Serial.println(beatAvg);
 //  Serial.println("");
   }
 }
