@@ -25,4 +25,4 @@ void loop() {
   denyut.trim();
   Serial.println(denyut);
   }
-}
+} 
